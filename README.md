@@ -1,5 +1,5 @@
 # SortableChallenge
-
+# External Library used for json parsing kept in lib folder
 Ensure that the input.json and config.json files are in the same folder with the lib and jar file.
 
 Docker build command :
