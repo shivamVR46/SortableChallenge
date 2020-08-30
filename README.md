@@ -7,4 +7,5 @@ Ensure that the input.json and config.json files are in the same folder with the
 ##If the input or config are altered make sure to build the Docker File each time
 
 # Docker run command :
-
+ docker run chllenge:latest > output.json
+ ##Output.json will be generated in the same folder 
